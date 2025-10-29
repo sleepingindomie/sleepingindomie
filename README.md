@@ -138,8 +138,4 @@ I'm a passionate developer focused on creating innovative digital solutions. Cur
 
 ### 💻 "Code is like humor. When you have to explain it, it's bad." - Cory House
 
-![Visitor Count](https://profile-counter.glitch.me/sleepingindomie/count.svg)
-
-⭐️ From [sleepingindomie](https://github.com/sleepingindomie)
-
 </div>
