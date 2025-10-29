@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/user/31ekgogeg3lsmgpdx556xr5dsoui)
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/user/L)
 
 ### 🎵 Currently vibing to
 
