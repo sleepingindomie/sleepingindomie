@@ -12,9 +12,9 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer focused on creating innovative digital solutions. Currently building my portfolio and continuously improving my programming skills.
+I'm a passionate developer focused on creating innovative digital solutions
 
-- 🔭 Currently working on **Pernah Ga Ready** - An Ace technical interviews with AI-powered resume optimization and live coding practice 
+- 🔭 Currently working on WeAreBrand
 - 🌱 Always learning and exploring new technologies
 - 💼 Portfolio: [Check it out!](https://porto-beige-tau.vercel.app/)
 - 📫 Reach me: **daffaprams09@gmail.com**
