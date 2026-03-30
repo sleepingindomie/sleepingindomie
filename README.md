@@ -1,22 +1,12 @@
 # Hi there, I'm sleepingindomie 👋
 
-<div align="center">
-
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/user/31ekgogeg3lsmgpdx556xr5dsoui?si=f41abed735d742a3)
-
-### 🎵 Currently vibing to
-
-</div>
-
----
-
 ## 🚀 About Me
 
 I'm a passionate developer focused on creating innovative digital solutions
 
 - 🔭 Currently working on WeAreBrand
 - 🌱 Always learning and exploring new technologies
-- 💼 Portfolio: [Check it out!](https://porto-beige-tau.vercel.app/)
+- 💼 Portfolio: [Check it out!](https://www.pramuditya.com/)
 - 📫 Reach me: **daffaprams09@gmail.com**
 
 ---
