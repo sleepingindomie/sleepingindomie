@@ -1,19 +1,19 @@
-# daffa pramuditya
+# Daffa Pramuditya
 
-fullstack web developer · malang, indonesia
+Fullstack Web Developer · Malang, Indonesia
 
-building production websites for international clients and indonesian agencies. currently shipping at dominate online and wearebrand — 27+ live sites across fintech, legal, editorial, crypto, saas.
+Building production websites for international clients and Indonesian agencies. Currently shipping at Dominate Online and WeAreBrand — 27+ live sites across fintech, legal, editorial, crypto, SaaS.
 
-— [pramuditya.com](https://pramuditya.com) · [linkedin](https://linkedin.com/in/daffapramuditya) · daffaprams09@gmail.com
-
----
-
-### stack
-
-next.js · react · typescript · wordpress · laravel · node.js · tailwind · framer motion · mysql · vite
+— [pramuditya.com](https://pramuditya.com) · [LinkedIn](https://linkedin.com/in/daffapramuditya) · daffaprams09@gmail.com
 
 ---
 
-### activity
+### Stack
+
+Next.js · React · TypeScript · WordPress · Laravel · Node.js · Tailwind · Framer Motion · MySQL · Vite
+
+---
+
+### Activity
 
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=sleepingindomie&theme=dark&hide_border=true&background=0D1117&stroke=2A2A2A&ring=39d353&fire=39d353&currStreakLabel=39d353)
